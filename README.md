@@ -1,6 +1,6 @@
 # use-width
 
-`NPM package to use width of screen size dynamically for responsive design`
+`NPM package to use the width of screen size dynamically for responsive design`
 
 ## Import
 
