@@ -2,6 +2,12 @@
 
 `NPM package to use the width of screen size dynamically for responsive design`
 
+## Install
+
+```
+npm i use-width
+```
+
 ## Import
 
 ```
