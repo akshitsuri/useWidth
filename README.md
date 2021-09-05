@@ -15,7 +15,7 @@ const [width] = useWidth();
 ```
 
 ```
-const component = width > 600 ? <DestopComponent> : <PhoneComponent>;
+const component = width > 600 ? <DesktopComponent> : <PhoneComponent>;
 
 or
 
